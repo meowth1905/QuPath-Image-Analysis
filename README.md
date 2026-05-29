@@ -1,3 +1,4 @@
+This folder contains pipelines for training and applying a StarDist model using your own training images.
 - **train_rgb_custom**  
   Pipeline to train a 3-channel StarDist model using custom training data.
 
